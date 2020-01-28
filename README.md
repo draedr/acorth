@@ -11,7 +11,7 @@ An eleventy theme for an elegant and simple blog.
 
 # images
 - Example with Day Mode
-[Day mode](https://imgur.com/4bdXYfE)
+![Day mode](https://imgur.com/4bdXYfE)
 
 - Example with Night Mode
-[Night mode](https://imgur.com/6yzbPmI)
+![Night mode](https://imgur.com/6yzbPmI)
