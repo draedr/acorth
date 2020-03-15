@@ -11,6 +11,7 @@
   "author": "Draedr",
   "license": "ISC",
   "dependencies": {
+    "@11ty/eleventy": "^0.10.0",
     "eleventy": "^1.0.6",
     "markdown-it": "^10.0.0",
     "markdown-it-ins": "^3.0.0",
